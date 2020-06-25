@@ -1,0 +1,30 @@
+Curso retomado em 01-06-2020.
+aula #01
+hello world,
+
+aula #02
+echo "qual seu nome?"
+read NOME
+clear
+echo "Seja bem vindo $NOME
+
+
+aula #6
+mudar diretorio e criar um arquivo,
+Atribuir uma data a uma variavel e criar um arquuivo com a data da variável.
+
+aula #7
+Argumentos
+passar argumentos: ./argumentos.sh lala  lele
+
+echo argumento $1
+echo argumento $2
+
+numero de argumentos passados $#
+
+quais os argumentos passados $@
+
+aula estrutura de escolha:
+if then else - elseif
+
+
